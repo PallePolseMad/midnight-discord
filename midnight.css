@@ -315,8 +315,8 @@
 }
 .typeWindows-2-g3UY .winButton-3UMjdg::after {
 	content: '';
-	height: 12px;
-	width: 12px;
+	height: 0px;
+	width: 0px;
 	border-radius: 12px;
 }
 .typeWindows-2-g3UY .winButtonClose-3Q8ZH5::after {
