@@ -284,10 +284,10 @@
 
 /* top corner title */
 .wordmarkWindows-2dq6rw svg {
-	display: none;
+	display: block;
 }
 .wordmarkWindows-2dq6rw::after {
-	content: 'Palleh´s Discord';
+	content: 'Discord';
 	display: block;
 	position: relative;
 	width: 200px;
