@@ -291,8 +291,8 @@
 	display: block;
 	position: relative;
 	width: 200px;
-	height: 16px;
-	line-height: 16px;
+	height: 18px;
+	line-height: 18px;
 	font-family: var(--font-headline);
 	font-size: 12px;
 	font-weight: 600;
@@ -302,31 +302,6 @@
 /* window controls */
 .withFrame-2dL45i {
 	height: 20px;
-}
-.typeWindows-2-g3UY .winButton-3UMjdg > svg {
-	display: none;
-}
-.typeWindows-2-g3UY .winButton-3UMjdg {
-	top: 0;
-	width: 0px;
-	height: 0px;
-	margin: 2px 12px 0px 0px;
-	border-radius: 12px;
-}
-.typeWindows-2-g3UY .winButton-3UMjdg::after {
-	content: '';
-	height: 0px;
-	width: 0px;
-	border-radius: 12px;
-}
-.typeWindows-2-g3UY .winButtonClose-3Q8ZH5::after {
-	background-color: hsl(350, 50%, 50%) !important;
-}
-.typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(3)::after {
-	background-color: hsl(150, 50%, 50%) !important;
-}
-.typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(4)::after {
-	background-color: hsl(50, 50%, 50%) !important;
 }
 .typeWindows-2-g3UY > div:hover::after {
 	transform: scale(1.1);
